@@ -6,11 +6,10 @@
                         "note": "https://github.com/topjohnwu/Magisk/blob/master/README.MD"
                     },
                     "magisk": {
-                        "version": "21.2",
+                        "version": "21.0",
                         "versionCode": "20323",
-                        "link": "https://github.com/topjohnwu/Magisk/releases/download/v21.2/Magisk-v21.2.zip",
-                        "note": "https://github.com/topjohnwu/Magisk/blob/master/README.MD",
-                        "md5": "165B48CBD6FB2507BF74C820CCCB9781"
+                        "link": "https://github.com/topjohnwu/Magisk/releases/download/v21.0/Magisk-v21.0.zip",
+                        "note": "https://github.com/topjohnwu/Magisk/blob/master/README.MD"
                     },
                     "uninstaller": {
                         "link": "https://github.com/topjohnwu/Magisk/releases/download/v20.4/Magisk-uninstaller-20200323.zip"
